@@ -1,0 +1,223 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1791381478531",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "TRAN THAI NGUYEN",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "████████ ███████▄  ▄████▄  ██    ██      ████████ ██    ██  ▄████▄  ████████      ██    ██  ▄████▄  ██    ██ ██    ██ ████████ ██    ██",
+          "   ██    ██    ██ ██    ██ ███   ██         ██    ██    ██ ██    ██    ██         ███   ██ ██    ▀▀ ██    ██  ▀████▀  ██       ███   ██",
+          "   ██    ███████▀ ████████ ██▀█  ██         ██    ████████ ████████    ██         ██▀█  ██ ██  ████ ██    ██    ██    ██████   ██▀█  ██",
+          "   ██    ██  ▀██▄ ██    ██ ██ ▀█ ██         ██    ██    ██ ██    ██    ██         ██ ▀█ ██ ██    ██ ██    ██    ██    ██       ██ ▀█ ██",
+          "   ██    ██    ██ ██    ██ ██   ███         ██    ██    ██ ██    ██ ████████      ██   ███  ▀████▀   ▀████▀     ██    ████████ ██   ███"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1791381535726",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 296,
+        "y": 128
+      },
+      "size": {
+        "width": 504,
+        "height": 256
+      },
+      "config": {
+        "headerColor": "#bd93f9",
+        "labelColor": "#ff79c6",
+        "dotColor": "#6272a4",
+        "valueColor": "#f8f8f2",
+        "statsValColor": "#8be9fd",
+        "dividerColor": "#44475a",
+        "showFollowing": false,
+        "showJoined": false,
+        "showStatus": false,
+        "showTimezone": false,
+        "showPronouns": false,
+        "showHighlights": false,
+        "showWebsite": false,
+        "showGithub": true,
+        "animationType": "typewriter",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1791381594185",
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 16,
+        "y": 128
+      },
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "config": {
+        "lockAspectRatio": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1791381641388",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 0,
+        "y": 416
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {
+        "customBio": "Vietnamese developer exploring AI, machine learning. Building projects with Python, Django, and PostgreSQL—from personalized AI assistants to data-driven applications. Always learning and turning ideas into working software.",
+        "textAlign": "center",
+        "animationType": "typewriter",
+        "animationPreviewKey": 7,
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1791381875633",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 592
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1791381884200",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 1180
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "twitter",
+          "discord",
+          "youtube",
+          "telegram",
+          "instagram"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/PlusNguyn"
+        },
+        "badgeStyle": "for-the-badge"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1791381947418",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 768
+      },
+      "size": {
+        "width": 800,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1791382000449",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 1024
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "py",
+          "docker",
+          "django",
+          "postgres",
+          "supabase",
+          "git",
+          "github",
+          "aws",
+          "linux",
+          "vscode",
+          "nginx"
+        ],
+        "animationType": "typewriter",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0a0a14",
+    "textColor": "#d6e0f0",
+    "accentColor": "#00ffff",
+    "borderColor": "#1e1e38",
+    "fontFamily": "Roboto",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "codeweb",
+    "transparentBackground": false
+  },
+  "templateId": "codeweb"
+}
